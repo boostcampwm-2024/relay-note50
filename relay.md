@@ -153,3 +153,16 @@ https://youtu.be/24f2-eJAeII?si=9L8_g316s4WohuBX
 - unmanaged 언어의 경우는 가비지 컬렉터가 없어 malloc, free를 이용해 수동으로 할당, 삭제를 해주어야 함.
 
 - 듣고 나서 : c하다가 자바스크립트 공부하니 너무 행복하다.
+
+## 07/26 - Git에서 과거로 돌아가는 4가지 방법
+
+https://youtube.com/shorts/aBrgLjCh4Z0?si=7VGiBZ0O-XWyZjiU
+
+- `reset` - 과거를 전체 날려서 다시 돌아갈 수 있음.
+	- reset 과 함께 `reflog`를 이용해 다시 롤백할 수 있음.
+
+- `revert` : 특정 시점을 가져와 그 이전 것을 하나씩 돌아가게 됨.
+
+- `checkout` : 커밋을 과거로 돌아갈 수 있음.
+
+
