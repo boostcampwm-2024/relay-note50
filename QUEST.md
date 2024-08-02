@@ -361,8 +361,9 @@ Chapter 8 (제어할 수 없는 것에 의존하지 않기)
 ### 📚 함께자라기\_K029 배영수
 ---
 
+## ⏳ 퀘스트 히스토리
 <details>
-<summary>## ⏳ 퀘스트 히스토리 </summary>
+<summary> 보기  </summary>
 
 ### 삭제된 퀘스트
 
